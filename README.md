@@ -3,12 +3,12 @@ An Interactive PowerBI dashboard, visualizing to track KPIs of AdventureWorks.
 
 
 ## Brief
-Adventure Works, aglobal manufacturing company that producing cycling equipment and accessories.
+Adventure Works, a global manufacturing company that produce cycling equipment and accessories.
 
-Dashboard showing the track if KPIs i.e sale, revenue, profit, returns, compare regional performance, analyze product level trends and identify high volume customers.
+Dashboard showing the track of KPIs i.e sale, revenue, profit, returns, compare regional performance, analyze product level trends and identify high volume customers.
 
 ## Steps Undertaken
-- Connected anf transform the raw data.
+- Connected and transform the raw data.
 - Buid a relational data model
-- Creat Calculated columns and measures with DAX
+- Creat calculated columns and measures with DAX
 - Design an interactive dashboard to visualise the data
