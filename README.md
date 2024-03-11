@@ -1,7 +1,6 @@
 # AdventureWorks-Dashboard
 An Interactive PowerBI dashboard, visualizing to track KPIs of AdventureWorks.
 
-
 ## Brief
 Adventure Works, a global manufacturing company that produce cycling equipment and accessories.
 
